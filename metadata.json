@@ -1,0 +1,5 @@
+{
+  "name": "ZenFlow - Meditazioni Guidate IA",
+  "description": "Un'applicazione di mindfulness che genera script di meditazione personalizzati e audio vocale in italiano basati sull'argomento scelto dall'utente.",
+  "requestFramePermissions": []
+}
